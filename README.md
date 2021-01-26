@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+ <title>Boycott French Products</title>
+    </head>
 
+    <body>
+<header>
+<var>
+    <p>contact us</p> 
+    <UL>
+        <li><a href="https://web.facebook.com/?_rdc=1&_rdr">Facebook</a></li>
+        <li><a href="https://www.instagram.com/">Instagram</a></li>
+        <li><a href="https://twitter.com/twitter?lang=ar">Twitter</a></li>
+        
+
+    </UL>
+</var>
+
+</header>
+<main>
+    <h1>Boycott French Products</h1>
+    <p>Boycott campaigns are not a new idea; it is a tradition of political parties and trade union activities. In a case similar to the case of France, there were campaigns before for the boycotting of Danish butter, over the same background, and American soft drinks, and the campaigns also reached American restaurants and coffee. Macron has drawn further anger from some Muslims for backing the publishing of caricatures of the Prophet Muhammad in the spirit of “freedom of expression”.
+
+        The prophet is deeply revered by Muslims and any kind of visual depiction is forbidden in Islam. The caricatures in question are seen by them as offensive and Islamophobic because they are perceived to link Islam with terrorism.
+        
+        As the boycott dispute escalated, Macron on Sunday doubled down on his stance and promised that his country will not “give in, ever”.
+        
+        “We do not accept hate speech and defend reasonable debate,” he said on Twitter. “We will always be on the side of human dignity and universal values.”
+        </p>
+
+        <img src="https://pbs.twimg.com/media/EmBr8eMVMAAPhRD.jpg" alt="an image">
+
+
+        <p>Political leaders such as Pakistan’s Imran Khan, Turkey’s foreign minister and the Gulf Cooperation Council (GCC) have said Macron’s rhetoric alienates his country’s six million Muslims – the largest Muslim minority in Europe –  and spreads a culture of hatred.
+
+            So what is behind the boycott of French products and the backlash against Macron’s comments on Islam?
+            
+            Marginalisation of France’s Muslims
+            Since 1905, France has adopted the laicite or secularism value, which forces the state to remain neutral – that is, to neither support nor stigmatise any religion.With the collapse of the French empire following World War II, France’s largely homogenous society in the metropolitan areas changed overnight and became home to many former colonial subjects and their descendants, mainly from North and West Africa.
+            </p>
+</main>
+<footer>
+&copy; Boycott French
+</footer>
+    </body>
+
+</html>
