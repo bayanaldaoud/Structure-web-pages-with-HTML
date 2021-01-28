@@ -1,6 +1,6 @@
 var reading = prompt ('Do you have interest in reading??');
-var nmb = prompt ('How many books do you read in the year??');
-var type = prompt ('What type of books you like??');
+var nnumber = prompt ('How many books do you read in the year??');
+var nmb;
 
 if (nmb > 10 && nmb < 20){
     nmb = "oh that is nice";
