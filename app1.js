@@ -22,3 +22,6 @@ for (var i = 0; i < nobranches; i++) {
 
 
 document.write(result);
+
+confirm("Good");
+alert("keep going");
