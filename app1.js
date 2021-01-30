@@ -20,4 +20,5 @@ for (var i = 0; i < nobranches; i++) {
   result = result + youropinion;
 }
 
+
 document.write(result);
