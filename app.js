@@ -1,23 +1,23 @@
-var reading = prompt ('Do you have interest in reading??');
-var number = prompt ('How many books do you read in the year??');
-var nmb;
+var opinion = prompt('what do you think is the largest French company Total or Carrfour ?');
 
-if (number >= 10 && number <= 20){
-    nmb= "oh that is nice";
-} else if (number >= 20 ){ 
-    nmb= "You are a great reader!!";
+while (opinion !== 'Total' && opinion !== 'Carrfour') {
+  order = prompt('what do you think is the largest French company Total or Carrfour ?');
+}
 
-} else if (number <= 10){
-    nmb= "you can do better ";
-} 
-document.write(nmb);
-document.getElementById("good").innerText=number;
+var youropinion = '';
 
-confirm("you are in the right path");
-alert("keep going");
+if (opinion === 'Total') {
+    youropinion = '<img src="https://www.total.jo/sites/g/files/wompnd1366/f/atoms/image/total_logo.png"/>';
+} else if (opinion === 'Carrfour') {
+    youropinion = '<img src="https://jo24.net/assets/2015/2015-055/images/dbebe33743309b64aa56ba4e28717d5a.jpg"/>';
+}
 
+var nobranches = prompt('how many branches of the company in the world?');
 
+var result = '';
 
+for (var i = 0; i < nobranches; i++) {
+  result = result + youropinion;
+}
 
-
- 
+document.write(result);
