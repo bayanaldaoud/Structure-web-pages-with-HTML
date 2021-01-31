@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+}
+header nav ul li a {
+    color: #070606;
+    text-decoration: none;
+  }
+  header nav ul li  {
+    list-style: none;
+  }
+
+header nav ul li {
+  display: inline-block;
+  padding: 10px;
+
+}
+ main h1 {
+    text-align: center;
+}
+
+ 
+
+
+
+
+
+
